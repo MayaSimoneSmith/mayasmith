@@ -18,20 +18,25 @@ ul {
 
 }
 
-ul li {
+ul li{
   list-style: none;
   display: inline-block;
   float: left;
   line-height: 100px;
+  margin-right: 100px;
 
 }
 
 ul li a {
   display: block;
   text-decoration: none;
-  font-size: 32px;
+  font-size: 30px;
   font-family: serif;
   color: #8BOO8B;
   padding: 0 20px;
 
+
+}
+nav {
+  border: 3px solid purple;
 }
