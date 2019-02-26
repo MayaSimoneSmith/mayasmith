@@ -40,3 +40,18 @@ ul li a {
 nav {
   border: 3px solid purple;
 }
+
+h1{
+font-size: 100px;
+font-family: serif;
+color: #800080;
+}
+p3{
+  font-size: 30px;
+  font-family: serif;
+}
+h2{
+font-size: 70px;
+color: #800080;
+font-family: serif;
+}
