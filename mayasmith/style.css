@@ -45,13 +45,10 @@ h1{
 font-size: 100px;
 font-family: serif;
 color: #800080;
+text-align: center;
 }
-p3{
+
+p {
   font-size: 30px;
-  font-family: serif;
-}
-h2{
-font-size: 70px;
-color: #800080;
-font-family: serif;
+ color: #000000;
 }
