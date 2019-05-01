@@ -58,11 +58,20 @@ h2{
 p {
   font-size: 30px;
  color: #000000;
+ text-align: center;
 }
 .MyFamily {
   font-size: 30px;
  color: #000000;
  text-align: center;
+}
+
+.Fam{
+  float: right;
+}
+
+.projects{
+  margin-left: 450px;
 }
 
 /* Slideshow container */
