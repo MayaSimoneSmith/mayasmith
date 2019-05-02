@@ -30,7 +30,7 @@ ul li{
 ul li a {
   display: block;
   text-decoration: none;
-  font-size: 30px;
+  font-size: 50px;
   font-family: serif;
   color: #8BOO8B;
   padding: 0 20px;
@@ -72,6 +72,10 @@ p {
 
 .projects{
   margin-left: 450px;
+}
+
+.Selfie{
+  margin-left: 850px;
 }
 
 /* Slideshow container */
